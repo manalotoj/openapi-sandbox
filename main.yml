@@ -1,8 +1,3 @@
-openapi: 3.0.1
-info:
-  title: EMS Rest API.
-  description: ' https://userdocs.cority.com/articles/#!fordevelopers/tools'
-  version: ""
 components:
   schemas:
     Authenticate_authenticateInfo:
